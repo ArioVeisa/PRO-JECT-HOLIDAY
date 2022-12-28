@@ -1,0 +1,240 @@
+/*--------- Medium devices -----------*/
+@media (min-width: 992px) and (max-width: 1200px) {
+.about_home_one .freelancer-image {
+  right: 0 !important;
+}
+
+}
+
+/*--------- TSmall devices Tablets ------------*/
+@media (min-width: 768px) and (max-width: 991px) {
+.sm-100{width:100%}
+.basic-menu li {
+  margin-left: 30px;
+}
+.portfolio-grid-4 .portfolio-item {
+  width: 33.33%;
+}
+.portfolio-mosaic .portfolio-item {
+  width: 50%;
+}
+.about-text {
+  margin-bottom: 60px;
+  margin-top: 0;
+}
+.portfolio-view-btn {
+  margin-bottom: 30px;
+}
+.testimonial-box {
+  margin-bottom: 45px;
+}
+.basic-menu li {
+  margin-left: 25px;
+}
+.skills-bars {
+  margin-bottom: 16px;
+}
+.freelancer-image {
+  top: 35px;
+}
+.about_home_one .freelancer-image {
+  right: 0 !important;
+}
+
+
+
+
+
+
+
+
+}
+
+ 
+/*------------ Extra small devices ------------*/
+@media (max-width: 767px) {
+.basic-menu li {
+  margin-left: 0;
+}
+.basic-menu > li > a::before {
+  display: none;
+}
+.slide-1{background-size:cover}
+.portfolio-item {
+  width: 100%;
+}
+.area-title {
+  width: 100%;
+}
+.call-to-action {
+  text-align: left;
+}
+.hamburger {
+  display: none;
+}
+.hamburger-menu {
+  display: none;
+}
+.sticky .mean-container a.meanmenu-reveal {
+  margin-top: -46px;
+}
+.copyright {
+  margin-bottom: 10px;
+  text-align: center;
+}
+.footer-menu {
+  text-align: center;
+}
+.portfolio-grid-2 .portfolio-item {
+  width: 100%;
+} 
+.portfolio-grid-4 .portfolio-item {
+  width: 100%;
+}
+.portfolio-mosaic .portfolio-item {
+  width: 100%;
+}
+.about-text {
+  margin-bottom: 60px;
+  margin-top: 0;
+}
+.counter-box {
+  width: 50%;
+}
+.pagination > li {
+  margin-bottom: 5px;
+}
+.comment-reply {
+  margin-left: 0;
+}
+.portfolio-view-btn {
+  margin-bottom: 30px;
+}
+.header-transparent .mean-container a.meanmenu-reveal {
+  border: 1px solid #fff;
+}
+.header-transparent .mean-container a.meanmenu-reveal span {
+  background: #fff none repeat scroll 0 0;
+}
+.slider-content.text-white h2 {
+  font-size: 25px;
+}
+.slider-content.text-white h2 span {
+  font-size: 15px;
+  margin-top: 13px;
+}
+.slider_button > a {
+  font-size: 12px;
+  padding: 8px 23px;
+}
+.slider-screen .slider-content {
+  top: 69%;
+}
+.slider-active .owl-dots .owl-dot span {
+  height: 7px;
+  margin: 10px 5px;
+  width: 7px;
+}
+.slider-active .owl-nav.disabled + .owl-dots {
+  margin-left: -28px;
+}
+.page-header h2 {
+  font-size: 30px;
+}
+.testimonial-box {
+  margin-bottom: 30px;
+}
+.skills-bars {
+  margin-bottom: 37px;
+}
+.single-member-wrapper {
+  margin-bottom: 40px;
+}
+.filter-menu button {
+  padding: 6px;
+}
+.view-icon {
+  margin-top: -54px;
+}
+.error-text > h1 {
+  font-size: 100px;
+}
+.error-area h2 {
+  font-size: 28px;
+}
+.slider-content.text-white p {
+  width: 100%;
+}
+.slider-screen {
+  padding: 130px 0 95px;
+}
+.cta-text {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 0;
+  text-align: center;
+}
+.cd-headline.clip .cd-words-wrapper::after {
+  top: 6px;
+}
+.slider-screen.hm__2 {
+  padding: 170px 0 95px;
+}
+.h2-c-ifo .freelancer-image {
+  left: 0 !important;
+}
+.about_home_one .freelancer-image {
+  right: 0 !important;
+}
+.hm_4 .slider-content.text-white h2 span {
+  font-size: 28px;
+}
+.hm_4 .cd-words-wrapper b {
+  top: 0px;
+}
+#about-freelancer .company-info {
+  padding: 83px 61px 0;
+}
+.about_home_one .freelancer-image {
+  right: 0 !important;
+}
+
+
+
+ 
+}
+ 
+/*----------- Large Mobile -------------*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.portfolio-item {
+  width: 50%;
+}
+.portfolio-grid-2 .portfolio-item {
+  width: 50%;
+} 
+.portfolio-grid-4 .portfolio-item {
+  width: 50%;
+}
+.cta-text .btn.btn-primary.sm.cta-right.page-scroll {
+  clear: both;
+  display: inline-block;
+  float: inherit;
+  overflow: hidden;
+  width: 63%;
+}
+.view-icon {
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
+ 
+}
